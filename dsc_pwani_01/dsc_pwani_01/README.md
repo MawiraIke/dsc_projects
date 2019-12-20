@@ -1,6 +1,6 @@
 # dsc_pwani_01
 
-A new Flutter application.
+Flutter app created in the first class. A Simple instagram UI clone.
 
 ## Getting Started
 
